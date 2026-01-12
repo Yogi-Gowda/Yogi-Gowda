@@ -85,7 +85,7 @@
 
 - 💼 GitHub: https://github.com/Yogi-Gowda
 - 📧 Email: yogeshkumar20369@gmail.com
-- 🌐 Portfolio: (yogeshkgowda.netlify.app)
+- 🌐 Portfolio: (https://yogeshkgowda.netlify.app/)
 - 💬 LinkedIn: (www.linkedin.com/in/yogesh-k-gowda-18638231b)
 
 ---
