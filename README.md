@@ -4,7 +4,7 @@ Hi! 👋 <img src="https://user-images.githubusercontent.com/18350557/176309783-
 Data Science | Software Testing | Web Development
 -------------------------------------------------
 
-A BCA (Data Science) undergraduate with a strong interest in software development and testing.  
+A MCA student ,BCA (Data Science) undergraduate with a strong interest in software development and testing.  
 I enjoy breaking down problems, building clean solutions, and understanding how systems work end-to-end.  
 With hands-on experience in data structures, web applications, and testing fundamentals, I am actively preparing myself for a career in the IT industry.
 
