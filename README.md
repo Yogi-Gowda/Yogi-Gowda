@@ -65,7 +65,7 @@ With hands-on experience in data structures, web applications, and testing funda
 ### 🌐 Socials
 
 <p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer">
+<a href="https://github.com/Yogi-Gowda" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -73,7 +73,7 @@ With hands-on experience in data structures, web applications, and testing funda
 </picture>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noreferrer">
+<a href="www.linkedin.com/in/yogesh-k-gowda-18638231b" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
