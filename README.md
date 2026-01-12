@@ -9,15 +9,15 @@ I enjoy breaking down problems, building clean solutions, and understanding how 
 With hands-on experience in data structures, web applications, and testing fundamentals, I am actively preparing myself for a career in the IT industry.
 
 * 🌍  I'm based in **Bengaluru, India**
-* 🎓  BCA Student (Data Science) at **Chanakya University**
+* 🎓  BCA Graduate at (Data Science) at **Chanakya University**
+* 🎓  MCA Student at **PES University**
 * 🖥️  See my projects on my GitHub repositories
-* ✉️  You can contact me at **your-email@example.com**
+* ✉️  You can contact me at **yogeshkumar20369@gmail.com.com**
 * 🚀  Currently working on **web-based projects & data structures**
-* 🧠  Learning **Machine Learning, Backend Development & Testing Tools**
 * 🤝  Open to collaborating on **student projects & learning-based repositories**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<a href="https://github.com/Yogi-Gowda" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/Yogi-Gowda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 ---
