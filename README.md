@@ -83,10 +83,10 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: (Add link if available)
-- 💬 LinkedIn: (Add LinkedIn profile)
+- 💼 GitHub: https://github.com/Yogi-Gowda
+- 📧 Email: yogeshkumar20369@gmail.com
+- 🌐 Portfolio: (yogeshkgowda.netlify.app)
+- 💬 LinkedIn: (www.linkedin.com/in/yogesh-k-gowda-18638231b)
 
 ---
 
