@@ -9,7 +9,7 @@ I enjoy breaking down problems, building clean solutions, and understanding how 
 With hands-on experience in data structures, web applications, and testing fundamentals, I am actively preparing myself for a career in the IT industry.
 
 * 🌍  I'm based in **Bengaluru, India**
-* 🎓  BCA Graduate at (Data Science) at **Chanakya University**
+* 🎓  BCA Graduate(Data Science) at **Chanakya University**
 * 🎓  MCA Student at **PES University**
 * 🖥️  See my projects on my GitHub repositories
 * ✉️  You can contact me at **yogeshkumar20369@gmail.com.com**
