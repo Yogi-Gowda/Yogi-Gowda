@@ -113,8 +113,6 @@ class CurrentGoals:
 
 ### 💭 *"The only way to do great work is to love what you do"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yogi-Gowda&color=blueviolet&style=for-the-badge)
-
 **⭐️ From [Yogi-Gowda](https://github.com/Yogi-Gowda)**
 
 </div>
