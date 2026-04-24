@@ -112,13 +112,4 @@ class CurrentGoals:
 <div align="center">
 ### 💭 *"The only way to do great work is to love what you do"*
 </div>
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yogi-Gowda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogi-Gowda&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi-Gowda&theme=tokyonight" alt="GitHub Streak"/>
-</div>
