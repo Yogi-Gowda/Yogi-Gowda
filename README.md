@@ -113,6 +113,6 @@ class CurrentGoals:
 
 ### 💭 *"The only way to do great work is to love what you do"*
 
-**⭐️ From [Yogi-Gowda](https://github.com/Yogi-Gowda)**
+
 
 </div>
