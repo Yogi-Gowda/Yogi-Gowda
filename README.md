@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MCA+Student+%40+PES+University;BCA+Graduate+in+Data+Science;Full+Stack+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/Yogi-Gowda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Yogi-Gowda)
+[![GitHub followers](https://img.shields.io/github/followers/Yogi-Gowda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/yogeshk005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-k-gowda-18638231b)
 
 </div>
